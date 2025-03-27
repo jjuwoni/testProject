@@ -1,2 +1,2 @@
 hello
-eulji university
+hello2
